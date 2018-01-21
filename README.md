@@ -1,6 +1,7 @@
 # elk安装与配置  #
 
 ## elk简介 ##
+
        - Elastic Stack，是一种能够从任意数据源抽取数据，并实时对数据进行搜索、分析
    和可视化展现的数据分析框架。
        - elk的组成：ElasticSearch、Logstash和Kiabana
